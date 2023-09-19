@@ -4,7 +4,7 @@
  <br/>
 Profissional na área de Telecomunicações há mais de 5 anos. Atuando no NOC (Network Operations Center) e central de suporte ao cliente e produto, como analista de suporte de níveis 2 e 3. Resoluções de problemas criticos em Asterisk/Telefonia VoiP/Redes/Linux. Sou formado em Redes de Computadores pelo Centro Universitário Senac e atualmente cursando Desenvolvimento de Sistema 
 
-
+ <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niltonbarbosa_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-barbosa-b40bb994/)
