@@ -23,7 +23,7 @@ Profissional na área de Telecomunicações há mais de 5 anos. Atuando no NOC (
 
 ![Nilton Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisnilton&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisnilton)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisnilton)](https://github.com/mynameisnilton)
 
 
 
