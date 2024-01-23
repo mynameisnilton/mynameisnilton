@@ -2,7 +2,9 @@
 
 ### Olá! Eu sou Nilton Barbosa ✌️
 
-Profissional na área de Telecomunicações há mais de 5 anos. Atuando no NOC (Network Operations Center) e central de suporte ao cliente e produto, como analista de suporte de níveis 2 e 3. Resoluções de problemas criticos em Asterisk/Telefonia VoiP/Redes/Linux. Sou formado em Redes de Computadores pelo Centro Universitário Senac e atualmente cursando Desenvolvimento de Sistema 
+Com mais de 5 anos de experiência na indústria de Telecomunicações, atuo como profissional especializado no NOC (Network Operations Center) e na central de suporte ao cliente e produto. Minha expertise abrange a função de analista de suporte de níveis 2 e 3, com foco na resolução eficiente de problemas críticos em tecnologias como Asterisk, Telefonia VoIP, Redes e Linux.
+
+Possuo formação em Redes de Computadores pelo Centro Universitário Senac, consolidando uma base sólida de conhecimento técnico. Além disso, estou atualmente aprimorando minhas habilidades ao cursar Desenvolvimento de Sistemas. Minha trajetória profissional é pautada pela busca incessante pela excelência em fornecer soluções inovadoras e eficazes.
 <hr/>
 
 ### Midias Sociais
