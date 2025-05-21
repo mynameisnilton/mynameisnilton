@@ -1,35 +1,55 @@
+# 👋 Olá! Eu sou Nilton Barbosa
 
+Com mais de 5 anos de experiência na indústria de **Telecomunicações**, atuo como especialista em **NOC (Network Operations Center)** e suporte técnico de níveis 2 e 3. Minha expertise inclui **Asterisk**, **Telefonia VoIP**, **Redes** e **Linux**, com foco na resolução eficiente de problemas críticos e na entrega de soluções confiáveis.
 
-### Olá! Eu sou Nilton Barbosa ✌️
+🎓 **Formação:**  
+- Graduado em Redes de Computadores – Centro Universitário SENAC  
+- Cursando Desenvolvimento de Sistemas – EBAC
 
-Com mais de 5 anos de experiência na indústria de Telecomunicações, atuo como profissional especializado no NOC (Network Operations Center) e na central de suporte ao cliente e produto. Minha expertise abrange a função de analista de suporte de níveis 2 e 3, com foco na resolução eficiente de problemas críticos em tecnologias como Asterisk, Telefonia VoIP, Redes e Linux.
+💡 Minha trajetória é pautada pela busca constante por excelência técnica e inovação.
 
-Possuo formação em Redes de Computadores pelo Centro Universitário Senac, consolidando uma base sólida de conhecimento técnico. Além disso, estou atualmente aprimorando minhas habilidades ao cursar Desenvolvimento de Sistemas. Minha trajetória profissional é pautada pela busca incessante pela excelência em fornecer soluções inovadoras e eficazes.
-<hr/>
+---
 
-### Midias Sociais
+## 🌐 Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/niltonbarbosa_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-barbosa-b40bb994/)
-<hr/>
 
-### Tecnologias utilizadas e estudadas no cotidiano
+---
 
-<div style ="display: inline_block"> <br/>
-<img align ="center" alt="html5" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg width="55">
-<img align ="center" alt="html5" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg width="55">
-<img align ="center" alt="html5" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg width="55">
-<img align ="center" alt="html5" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg width="55">
-<img align ="center"  alt="html5" src=https://upload.wikimedia.org/wikipedia/pt/1/1a/Asterisk_Logo.png width="55" h>
+## 💻 Tecnologias e Ferramentas
 
-</div><br>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/>
+  <img align="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45"/>
+  <img align="center" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
+  <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
+  <img align="center" alt="Asterisk" src="https://upload.wikimedia.org/wikipedia/pt/1/1a/Asterisk_Logo.png" width="45"/>
+</div><br/>
 
-![Nilton Barbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisnilton&show_icons=true&theme=transparent)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisnilton)](https://github.com/mynameisnilton)
+## 📊 GitHub Estatísticas
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynameisnilton&show_icons=true&theme=default&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisnilton&layout=compact&hide_border=false"/>
+</div>
 
+---
 
+## 🚀 Projetos em Destaque
 
+- 🔧 [**Monitoramento com Zabbix**](https://github.com/mynameisnilton/monitoramento-zabbix) – Solução de monitoramento de rede com alertas automatizados.
+- 📞 [**Sistema VoIP com Asterisk**](https://github.com/mynameisnilton/sistema-voip) – Sistema de telefonia IP com funcionalidades personalizadas.
 
+---
 
+## ✍️ Contato
+
+Caso queira trocar uma ideia, colaborar ou tenha uma oportunidade, sinta-se à vontade para entrar em contato!
+
+📧 **nilton.barbosa@example.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/nilton-barbosa-b40bb994)
+
+---
