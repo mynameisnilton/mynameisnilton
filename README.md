@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Nilton Barbosa
 
-Com mais de 5 anos de experiência na indústria de **Telecomunicações**, atuo como especialista em **NOC (Network Operations Center)** e suporte técnico de níveis 2 e 3. Minha expertise inclui **Asterisk**, **Telefonia VoIP**, **Redes** e **Linux**, com foco na resolução eficiente de problemas críticos e na entrega de soluções confiáveis.
+Com mais de 5 anos de experiência na indústria de **Telecomunicações**, atuo como especialista me suporte técnico de níveis 2 e 3. Minha expertise inclui **Asterisk**, **Telefonia VoIP**, **Redes** e **Linux**, com foco na resolução eficiente de problemas críticos e na entrega de soluções confiáveis.
 
 🎓 **Formação:**  
 - Graduado em Redes de Computadores – Centro Universitário SENAC  
@@ -38,18 +38,11 @@ Com mais de 5 anos de experiência na indústria de **Telecomunicações**, atuo
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 🔧 [**Monitoramento com Zabbix**](https://github.com/mynameisnilton/monitoramento-zabbix) – Solução de monitoramento de rede com alertas automatizados.
-- 📞 [**Sistema VoIP com Asterisk**](https://github.com/mynameisnilton/sistema-voip) – Sistema de telefonia IP com funcionalidades personalizadas.
-
----
-
 ## ✍️ Contato
 
 Caso queira trocar uma ideia, colaborar ou tenha uma oportunidade, sinta-se à vontade para entrar em contato!
 
-📧 **nilton.barbosa@example.com**  
+📧 **niltonbarbosa.nb@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nilton-barbosa-b40bb994)
 
 ---
