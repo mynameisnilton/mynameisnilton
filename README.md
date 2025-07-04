@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Nilton Barbosa
 
-Com mais de 5 anos de experiência na indústria de **Telecomunicações**, atuo como especialista me suporte técnico de níveis 2 e 3. Minha expertise inclui **Asterisk**, **Telefonia VoIP**, **Redes** e **Linux**, com foco na resolução eficiente de problemas críticos e na entrega de soluções confiáveis.
+Com mais de 8 anos de experiência na area de **Telecomunicações** e **Tecnologia**, atuei como especialista em suporte técnico de níveis 2 e 3 e hoje atuo como Analista de Implantação. Tenho a resposabilidade de desenvolver e criar integrações entre sistemas e entregar uma melhor experiencia ao cliente. Minha expertise inclui **Asterisk**, **Telefonia VoIP**, **Redes**, **Linux**,**PHP**, **Python**, com foco na resolução eficiente de problemas críticos e na entrega de soluções confiáveis.
 
 🎓 **Formação:**  
 - Graduado em Redes de Computadores – Centro Universitário SENAC  
